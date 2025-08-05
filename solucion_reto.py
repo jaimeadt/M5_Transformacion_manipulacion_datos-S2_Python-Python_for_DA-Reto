@@ -7,7 +7,7 @@ host = "localhost"
 port = "5433"
 dbname = "northwind"
 user = "postgres"
-password = "Cacafuti01*0123"
+password = "xxxxxxxx"
 
 try:
     conn = psycopg2.connect(
